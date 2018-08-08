@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="BungeeSystem" />
+        <module name="CloudAPI[Neu]" />
+        <module name="Modules - Logger" />
+        <module name="Modules - MongoDB" />
+        <module name="Smash - Network" />
+        <module name="Test" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="BungeeSystem" target="1.8" />
+      <module name="CloudAPI" target="1.8" />
+      <module name="CloudAPI[Neu]" target="1.8" />
+      <module name="Logger" target="1.5" />
+      <module name="Logger (1)" target="1.5" />
+      <module name="module-mongodb" target="1.5" />
+      <module name="Modules" target="1.5" />
+      <module name="Modules  - Scoreboard" target="1.5" />
+      <module name="Modules - Builder" target="1.8" />
+      <module name="Modules - Logger" target="1.5" />
+      <module name="Modules - MongoDB" target="1.8" />
+      <module name="Modules - Network" target="1.5" />
+      <module name="Modules - Rank" target="1.8" />
+      <module name="Modules - Sign" target="1.8" />
+      <module name="Modules - Teamspeak" target="1.5" />
+      <module name="SkyWars" target="1.8" />
+      <module name="Smash - Network" target="1.8" />
+      <module name="SmashMaster" target="1.8" />
+      <module name="SmashMC - Lobby" target="1.8" />
+      <module name="SmashMC - Modules" target="1.5" />
+      <module name="SmashMC - Network" target="1.5" />
+      <module name="SmashMCModules" target="1.5" />
+      <module name="SmashPVP" target="1.8" />
+      <module name="SmashServer" target="1.5" />
+      <module name="SmashWrapper" target="1.8" />
+      <module name="Test" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

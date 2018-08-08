@@ -1,0 +1,4 @@
+author: ByteException
+version: 1.0
+name: CloudServer
+main: net.smashmc.cloud.bungeesystem.BungeeSystem

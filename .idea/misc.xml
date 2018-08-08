@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/SmashMaster/pom.xml" />
+        <option value="$PROJECT_DIR$/SmashWrapper/pom.xml" />
+        <option value="$PROJECT_DIR$/SmashMC - Modules/pom.xml" />
+        <option value="$PROJECT_DIR$/Modules - Sign/pom.xml" />
+        <option value="$PROJECT_DIR$/Modules - Teamspeak/pom.xml" />
+        <option value="$PROJECT_DIR$/Modules  - Scoreboard/pom.xml" />
+        <option value="$PROJECT_DIR$/Modules - Builder/pom.xml" />
+        <option value="$PROJECT_DIR$/Modules - Rank/pom.xml" />
+        <option value="$PROJECT_DIR$/BungeeSystem/pom.xml" />
+        <option value="$PROJECT_DIR$/SmashMC - Network/pom.xml" />
+        <option value="$PROJECT_DIR$/Smash - Network/pom.xml" />
+        <option value="$PROJECT_DIR$/CloudAPI[Neu]/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/Logger/pom.xml" />
+        <option value="$PROJECT_DIR$/SmashMC - Modules/Logger/pom.xml" />
+        <option value="$PROJECT_DIR$/SmashMC - Modules/Modules  - Scoreboard/pom.xml" />
+        <option value="$PROJECT_DIR$/SmashMC - Modules/Modules - Builder/pom.xml" />
+        <option value="$PROJECT_DIR$/SmashMC - Modules/Modules - Rank/pom.xml" />
+        <option value="$PROJECT_DIR$/SmashMC - Modules/Modules - Sign/pom.xml" />
+        <option value="$PROJECT_DIR$/SmashMC - Modules/Modules - Teamspeak/pom.xml" />
+        <option value="$PROJECT_DIR$/SmashMC - Modules/module-mongodb/pom.xml" />
+        <option value="$PROJECT_DIR$/SmashMC - Modules/pom.xml" />
+        <option value="$PROJECT_DIR$/module-mongodb/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_3" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

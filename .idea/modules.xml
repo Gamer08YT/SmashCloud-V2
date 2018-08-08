@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BungeeSystem/BungeeSystem.iml" filepath="$PROJECT_DIR$/BungeeSystem/BungeeSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CloudAPI[Neu]/CloudAPI[Neu].iml" filepath="$PROJECT_DIR$/CloudAPI[Neu]/CloudAPI[Neu].iml" />
+      <module fileurl="file://$PROJECT_DIR$/SmashMC - Modules/Modules - Logger/Modules - Logger.iml" filepath="$PROJECT_DIR$/SmashMC - Modules/Modules - Logger/Modules - Logger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SmashMC - Modules/Modules - MongoDB/Modules - MongoDB.iml" filepath="$PROJECT_DIR$/SmashMC - Modules/Modules - MongoDB/Modules - MongoDB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Smash - Network/Smash - Network.iml" filepath="$PROJECT_DIR$/Smash - Network/Smash - Network.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SmashCloud-V2.iml" filepath="$PROJECT_DIR$/SmashCloud-V2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SmashMaster/SmashMaster.iml" filepath="$PROJECT_DIR$/SmashMaster/SmashMaster.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SmashWrapper/SmashWrapper.iml" filepath="$PROJECT_DIR$/SmashWrapper/SmashWrapper.iml" />
+    </modules>
+  </component>
+</project>

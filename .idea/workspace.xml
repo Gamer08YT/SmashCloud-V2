@@ -1,0 +1,1656 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="SmashMaster" />
+    </artifacts-to-build>
+  </component>
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/SmashWrapper/src/main/java/net/smashmc/wrapper/Wrapper.java" line="37" />
+    <bookmark url="file://$PROJECT_DIR$/BungeeSystem/src/main/java/net/smashmc/cloud/bungeesystem/commands/CommandFriend.java" line="108" />
+    <bookmark url="file://$PROJECT_DIR$/SmashMaster/src/main/java/net/smashmc/cloud/master/utils/signs/DynamicSign.java" line="23" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0b1e0bfa-d7a2-4397-ac59-afb7fe0c7aec" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/SmashMaster/target/" />
+    <ignored path="$PROJECT_DIR$/SmashWrapper/target/" />
+    <ignored path="$PROJECT_DIR$/Modules/target/" />
+    <ignored path="$PROJECT_DIR$/SmashMCModules/target/" />
+    <ignored path="$PROJECT_DIR$/SmashMC - Modules/target/" />
+    <ignored path="$PROJECT_DIR$/Logger/target/" />
+    <ignored path="$PROJECT_DIR$/SmashMC - Modules/Logger/target/" />
+    <ignored path="$PROJECT_DIR$/SmashMC - Modules/module-mongodb/target/" />
+    <ignored path="$PROJECT_DIR$/module-mongodb/target/" />
+    <ignored path="$PROJECT_DIR$/Modules - MongoDB/target/" />
+    <ignored path="$PROJECT_DIR$/SmashMC - Modules/Modules - MongoDB/target/" />
+    <ignored path="$PROJECT_DIR$/Modules - Logger/target/" />
+    <ignored path="$PROJECT_DIR$/SmashMC - Modules/Modules - Logger/target/" />
+    <ignored path="$PROJECT_DIR$/Modules - Sign/target/" />
+    <ignored path="$PROJECT_DIR$/SmashMC - Modules/Modules - Sign/target/" />
+    <ignored path="$PROJECT_DIR$/Modules - Teamspeak/target/" />
+    <ignored path="$PROJECT_DIR$/SmashMC - Modules/Modules - Teamspeak/target/" />
+    <ignored path="$PROJECT_DIR$/SmashMC - Modules/SmashMaster/target/" />
+    <ignored path="$PROJECT_DIR$/SmashMC - Lobby/target/" />
+    <ignored path="$PROJECT_DIR$/SmashMC - Modules/Modules  - Scoreboard/target/" />
+    <ignored path="$PROJECT_DIR$/Modules - Builder/target/" />
+    <ignored path="$PROJECT_DIR$/SmashMC - Modules/Modules - Builder/target/" />
+    <ignored path="$PROJECT_DIR$/SmashPVP/target/" />
+    <ignored path="$PROJECT_DIR$/SmashMC - Modules/Modules - Rank/target/" />
+    <ignored path="$PROJECT_DIR$/SmashServer/target/" />
+    <ignored path="$PROJECT_DIR$/SkyWars/target/" />
+    <ignored path="$PROJECT_DIR$/BungeeSystem/target/" />
+    <ignored path="$PROJECT_DIR$/CloudAPI/target/" />
+    <ignored path="$PROJECT_DIR$/SmashMC - Network/target/" />
+    <ignored path="$PROJECT_DIR$/Smash - Network/target/" />
+    <ignored path="$PROJECT_DIR$/CloudAPI[Neu]/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/SmashCloud_V2$BungeecordProxyTest.coverage" NAME="BungeecordProxyTest Coverage Results" MODIFIED="1523058671270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>net.smashmc.cloud.master.server.modules.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/SmashCloud_V2$net_smashmc_cloud_master_in_SmashMaster.coverage" NAME="net.smashmc.cloud.master in SmashMaster Coverage Results" MODIFIED="1523058891222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>net.smashmc.cloud.master.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/SmashCloud_V2$All_in_SmashMaster.coverage" NAME="All in SmashMaster Coverage Results" MODIFIED="1523058710738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/SmashCloud_V2$MasterTest.coverage" NAME="MasterTest Coverage Results" MODIFIED="1523058778496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>net.smashmc.cloud.master.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+        <option value="Kotlin File" />
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>writeString</find>
+      <find>disableWarning</find>
+      <find>package net\.smashmc\.cloud\.master\.packets\;\n\nimport io\.netty\.buffer\.ByteBufInputStream\;\nimport io\.netty\.channel\.Channel\;\nimport net\.smashmc\.cloud\.master\.Master\;\nimport net\.smashmc\.cloud\.master\.utils\.modules\.Template\;\nimport net\.smashmc\.cloud\.master\.utils\.types\.Wrapper\;\nimport net\.smashmc\.cloud\.network\.packet\.Packet\;\n\nimport java\.io\.IOException\;\n\npublic class PacketInStopServer implements Packet \{\n\n    private String name\;\n\n    \@Override\n    public void read\(ByteBufInputStream byteBuf\) \{\n        System\.out\.println\(\&quot;read packet\&quot;\)\;\n        try \{\n            this\.name \= byteBuf\.readUTF\(\)\;\n        \} catch \(IOException e\) \{\n            e\.printStackTrace\(\)\;\n        \}\n    \}\n\n    \@Override\n    public Packet handle\(Channel channel\) \{\n\n        String\[\] templateName \= name\.split\(\&quot;\-\&quot;\)\;\n\n        Master\.instance\.getWrapperHandler\(\)\.getWrappers\(\)\.forEach\(wrapper \-\&gt; \{\n            wrapper\.getChannel\(\)\.writeAndFlush\(new PacketOutStopServer\(name\)\, wrapper\.getChannel\(\)\.voidPromise\(\)\)\;\n            Master\.instance\.getServers\(\)\.forEach\(server \-\&gt; \{\n                if \(server\.getName\(\)\.equals\(name\)\)\n                    wrapper\.setUsableRam\(wrapper\.getUsableRam\(\) \+ server\.getMinRam\(\)\)\;\n                Master\.instance\.getWrapperHandler\(\)\.getWrappers\(\)\.remove\(server\)\;\n            \}\)\;\n        \}\)\;\n        Master\.instance\.getTemplates\(\)\.forEach\(template \-\&gt; \{\n            if \(templateName\[0\]\.equalsIgnoreCase\(template\.getTemplate\(\)\)\) \{\n                template\.setOnline\(template\.getOnline\(\) \- 1\)\;\n\n                if \(template\.getOnline\(\) \=\= 0\) \{\n                    Master\.instance\.getCloudHandler\(\)\.startServer\(template\)\;\n                \}\n            \}\n        \}\)\;\n        return null\;\n    \}\n\}\n</find>
+      <find>Master.instance.get</find>
+      <find>Master.instance.getCloudHandler().getTemplates()</find>
+      <find>template</find>
+      <find>getcoins</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/SmashWrapper/src/main/java/net/smashmc/wrapper/Wrapper.java" />
+        <option value="$PROJECT_DIR$/CloudAPI[Neu]/pom.xml" />
+        <option value="$PROJECT_DIR$/CloudAPI[Neu]/src/main/java/net/smashmc/eu/commands/CloudLogCommand.java" />
+        <option value="$PROJECT_DIR$/SmashMaster/src/main/java/net/smashmc/cloud/master/utils/modules/Template.java" />
+        <option value="$PROJECT_DIR$/SmashMaster/src/main/java/net/smashmc/cloud/master/handler/CloudHandler.java" />
+        <option value="$PROJECT_DIR$/SmashWrapper/src/main/java/net/smashmc/wrapper/packet/PacketInAddServer.java" />
+        <option value="$PROJECT_DIR$/BungeeSystem/src/main/java/net/smashmc/cloud/bungeesystem/packet/PacketInAddServer.java" />
+        <option value="$PROJECT_DIR$/SmashMaster/src/main/java/net/smashmc/cloud/master/packets/PacketOutAddServer.java" />
+        <option value="$PROJECT_DIR$/SmashMaster/src/main/java/net/smashmc/cloud/master/Master.java" />
+        <option value="$PROJECT_DIR$/SmashMaster/src/main/java/net/smashmc/cloud/master/packets/PacketInRegister.java" />
+        <option value="$PROJECT_DIR$/CloudAPI[Neu]/src/main/java/net/smashmc/eu/update/listener/SignSetListener.java" />
+        <option value="$PROJECT_DIR$/BungeeSystem/src/main/java/net/smashmc/cloud/bungeesystem/packet/PacketAddReport.java" />
+        <option value="$PROJECT_DIR$/BungeeSystem/src/main/java/net/smashmc/cloud/bungeesystem/handler/report/ReportHandler.java" />
+        <option value="$PROJECT_DIR$/BungeeSystem/src/main/java/net/smashmc/cloud/bungeesystem/Prefixes.java" />
+        <option value="$PROJECT_DIR$/BungeeSystem/src/main/java/net/smashmc/cloud/bungeesystem/commands/CommandReport.java" />
+        <option value="$PROJECT_DIR$/BungeeSystem/src/main/java/net/smashmc/cloud/bungeesystem/commands/CommandHub.java" />
+        <option value="$PROJECT_DIR$/BungeeSystem/src/main/java/net/smashmc/cloud/bungeesystem/commands/CommandPing.java" />
+        <option value="$PROJECT_DIR$/CloudAPI[Neu]/src/main/java/net/smashmc/eu/update/listener/UpdateReportListener.java" />
+        <option value="$PROJECT_DIR$/CloudAPI[Neu]/src/main/java/net/smashmc/eu/packet/PacketAddReport.java" />
+        <option value="$PROJECT_DIR$/BungeeSystem/src/main/java/net/smashmc/cloud/bungeesystem/netty/packet/PacketAddReport.java" />
+        <option value="$PROJECT_DIR$/BungeeSystem/src/main/java/net/smashmc/cloud/bungeesystem/handler/Player.java" />
+        <option value="$PROJECT_DIR$/BungeeSystem/src/main/java/net/smashmc/cloud/bungeesystem/listener/ListenerChat.java" />
+        <option value="$PROJECT_DIR$/BungeeSystem/src/main/java/net/smashmc/cloud/bungeesystem/commands/CommandKick.java" />
+        <option value="$PROJECT_DIR$/BungeeSystem/src/main/java/net/smashmc/cloud/bungeesystem/commands/CommandReports.java" />
+        <option value="$PROJECT_DIR$/BungeeSystem/src/main/java/net/smashmc/cloud/bungeesystem/listener/ListenerPing.java" />
+        <option value="$PROJECT_DIR$/BungeeSystem/src/main/java/net/smashmc/cloud/bungeesystem/handler/lobby/LobbyDistributor.java" />
+        <option value="$PROJECT_DIR$/BungeeSystem/src/main/java/net/smashmc/cloud/bungeesystem/commands/CommandFriend.java" />
+        <option value="$PROJECT_DIR$/BungeeSystem/src/main/java/net/smashmc/cloud/bungeesystem/commands/CommandBroadcast.java" />
+        <option value="$PROJECT_DIR$/SmashMC - Modules/Modules - MongoDB/src/main/java/net/smashmc/modules/mongodb/storage/connection/DatabaseConnection.java" />
+        <option value="$PROJECT_DIR$/BungeeSystem/src/main/java/net/smashmc/cloud/bungeesystem/database/Settings.java" />
+        <option value="$PROJECT_DIR$/BungeeSystem/src/main/java/net/smashmc/cloud/bungeesystem/commands/CommandCloud.java" />
+        <option value="$PROJECT_DIR$/BungeeSystem/src/main/java/net/smashmc/cloud/bungeesystem/commands/CommandWhereami.java" />
+        <option value="$PROJECT_DIR$/BungeeSystem/src/main/java/net/smashmc/cloud/bungeesystem/handler/PlayerInfo.java" />
+        <option value="$PROJECT_DIR$/BungeeSystem/src/main/java/net/smashmc/cloud/bungeesystem/listener/ListenerLogin.java" />
+        <option value="$PROJECT_DIR$/BungeeSystem/src/main/java/net/smashmc/cloud/bungeesystem/commands/CommandSetRank.java" />
+        <option value="$PROJECT_DIR$/BungeeSystem/src/main/java/net/smashmc/cloud/bungeesystem/database/User.java" />
+        <option value="$PROJECT_DIR$/BungeeSystem/src/main/java/net/smashmc/cloud/bungeesystem/commands/CommandCoins.java" />
+        <option value="$PROJECT_DIR$/BungeeSystem/src/main/java/net/smashmc/cloud/bungeesystem/handler/Prefixes.java" />
+        <option value="$PROJECT_DIR$/BungeeSystem/src/main/java/net/smashmc/cloud/bungeesystem/commands/CommandClan.java" />
+        <option value="$PROJECT_DIR$/BungeeSystem/src/main/java/net/smashmc/cloud/bungeesystem/database/Clan.java" />
+        <option value="$PROJECT_DIR$/BungeeSystem/src/main/java/net/smashmc/cloud/bungeesystem/BungeeSystem.java" />
+        <option value="$PROJECT_DIR$/CloudAPI[Neu]/src/main/java/net/smashmc/eu/update/ServerUpdate.java" />
+        <option value="$PROJECT_DIR$/SmashMaster/src/main/java/net/smashmc/cloud/master/utils/types/Server.java" />
+        <option value="$PROJECT_DIR$/CloudAPI[Neu]/src/main/java/net/smashmc/eu/packet/PacketOutServerInformation.java" />
+        <option value="$PROJECT_DIR$/CloudAPI[Neu]/src/main/java/net/smashmc/eu/update/listener/UpdateListener.java" />
+        <option value="$PROJECT_DIR$/CloudAPI[Neu]/src/main/java/net/smashmc/eu/utils/Server.java" />
+        <option value="$PROJECT_DIR$/CloudAPI[Neu]/src/main/java/net/smashmc/eu/CloudAPI.java" />
+        <option value="$PROJECT_DIR$/CloudAPI[Neu]/src/main/java/net/smashmc/eu/packet/PacketInServerInformation.java" />
+        <option value="$PROJECT_DIR$/CloudAPI[Neu]/src/main/java/net/smashmc/eu/packet/PacketInAddServer.java" />
+        <option value="$PROJECT_DIR$/SmashMaster/src/main/java/net/smashmc/cloud/master/packets/PacketInServerInformation.java" />
+        <option value="$PROJECT_DIR$/SmashMaster/src/main/java/net/smashmc/cloud/master/packets/PacketOutServerInformation.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="CloudAPI" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="CloudAPI" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-374" />
+    <option name="y" value="200" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SmashCloud-V2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SmashCloud-V2" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="smashcloud-v2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="YouTrack" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.34367815" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="net.smashmc.cloud.master" />
+      <recent name="net.smashmc.cloud.master.server.modules" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\SmashServer\SmashCloud-V2\SmashMC - Modules" />
+      <recent name="D:\SmashServer\SmashCloud-V2" />
+      <recent name="D:\SmashServer\SmashCloud-V2\SmashMC - Modules\module-mongodb" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="net.smashmc.eu.packet" />
+      <recent name="net.smashmc.cloud.master.packets" />
+      <recent name="net.smashmc.cloud.bungeesystem.packet" />
+      <recent name="net.smashmc.cloud.network.packet" />
+      <recent name="net.smashmc.cloud.cloudapi.network.packet.in" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\SmashServer\SmashCloud-V2\CloudAPI[Neu]\src\main\java\net\smashmc\eu\utils" />
+      <recent name="D:\SmashServer\SmashCloud-V2\CloudAPI[Neu]\src\main\java\net\smashmc\eu\packet" />
+      <recent name="D:\SmashServer\SmashCloud-V2\CloudAPI[Neu]\src\main\java\net\smashmc\eu\handler" />
+      <recent name="D:\SmashServer\SmashCloud-V2\CloudAPI\src\main\java\net\smashmc\cloud\cloudapi\network\handler" />
+      <recent name="D:\SmashServer\SmashCloud-V2\CloudAPI\src\main\java\net\smashmc\cloud\cloudapi" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="net.smashmc.cloud.master" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.test">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration name="TeamspeakBot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="net.smashmc.modules.teamspeak.TeamspeakBot" />
+      <module name="Modules - Teamspeak" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.smashmc.modules.teamspeak.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="net.smashmc.cloud.master.test" />
+      <module name="SmashMaster" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.smashmc.cloud.master.packets.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="All in SmashMaster" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SmashMaster" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="MasterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SmashMaster" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.smashmc.cloud.master.packets.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="net.smashmc.cloud.master" />
+      <option name="MAIN_CLASS_NAME" value="net.smashmc.cloud.master.MasterTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="net.smashmc.cloud.master in SmashMaster" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SmashMaster" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.smashmc.cloud.master.packets.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="net.smashmc.cloud.master" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.All in SmashMaster" />
+      <item itemvalue="JUnit.MasterTest" />
+      <item itemvalue="JUnit.net.smashmc.cloud.master in SmashMaster" />
+      <item itemvalue="Application.TeamspeakBot" />
+      <item itemvalue="Application.test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.TeamspeakBot" />
+        <item itemvalue="JUnit.net.smashmc.cloud.master in SmashMaster" />
+        <item itemvalue="JUnit.MasterTest" />
+        <item itemvalue="JUnit.All in SmashMaster" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Mike\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0b1e0bfa-d7a2-4397-ac59-afb7fe0c7aec" name="Default" comment="" />
+      <created>1522283894701</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1522283894701</updated>
+      <workItem from="1522283902959" duration="5841000" />
+      <workItem from="1522289793669" duration="1819000" />
+      <workItem from="1522338834843" duration="3101000" />
+      <workItem from="1522344410094" duration="1357000" />
+      <workItem from="1522418060583" duration="3836000" />
+      <workItem from="1522436699694" duration="2594000" />
+      <workItem from="1522443853963" duration="1363000" />
+      <workItem from="1522496892890" duration="1862000" />
+      <workItem from="1522519493254" duration="900000" />
+      <workItem from="1522529900092" duration="4293000" />
+      <workItem from="1522542473360" duration="3220000" />
+      <workItem from="1522603564828" duration="4999000" />
+      <workItem from="1522617872470" duration="4441000" />
+      <workItem from="1522676323804" duration="14137000" />
+      <workItem from="1522702219503" duration="1744000" />
+      <workItem from="1522704941314" duration="5329000" />
+      <workItem from="1522761904791" duration="1253000" />
+      <workItem from="1522788232569" duration="3659000" />
+      <workItem from="1522842436819" duration="1889000" />
+      <workItem from="1522844534942" duration="636000" />
+      <workItem from="1522927375791" duration="217000" />
+      <workItem from="1522928570004" duration="756000" />
+      <workItem from="1522944264235" duration="355000" />
+      <workItem from="1522953672990" duration="1686000" />
+      <workItem from="1522961627445" duration="13945000" />
+      <workItem from="1523019873082" duration="20772000" />
+      <workItem from="1523057168390" duration="3507000" />
+      <workItem from="1523114004913" duration="9231000" />
+      <workItem from="1523136206204" duration="63000" />
+      <workItem from="1523139120499" duration="328000" />
+      <workItem from="1523140095615" duration="8335000" />
+      <workItem from="1523182063827" duration="4461000" />
+      <workItem from="1523193785722" duration="4735000" />
+      <workItem from="1523644999288" duration="643000" />
+      <workItem from="1523646068204" duration="566000" />
+      <workItem from="1523652003807" duration="3904000" />
+      <workItem from="1523663760382" duration="11000" />
+      <workItem from="1523734184531" duration="14130000" />
+      <workItem from="1523785806343" duration="6739000" />
+      <workItem from="1523792991928" duration="15750000" />
+      <workItem from="1523810306891" duration="1068000" />
+      <workItem from="1524344863447" duration="3112000" />
+      <workItem from="1524348982965" duration="1435000" />
+      <workItem from="1524396423085" duration="1097000" />
+      <workItem from="1524398852402" duration="5585000" />
+      <workItem from="1524408612909" duration="3705000" />
+      <workItem from="1524948427869" duration="7258000" />
+      <workItem from="1525000113662" duration="13706000" />
+      <workItem from="1525104068774" duration="2035000" />
+      <workItem from="1525117488636" duration="69000" />
+      <workItem from="1525118064311" duration="10373000" />
+      <workItem from="1525130867046" duration="1404000" />
+      <workItem from="1525132339772" duration="786000" />
+      <workItem from="1525168447108" duration="8136000" />
+      <workItem from="1525178756452" duration="12317000" />
+      <workItem from="1525516787580" duration="1566000" />
+      <workItem from="1525518442935" duration="21693000" />
+      <workItem from="1525551840261" duration="1248000" />
+      <workItem from="1525554963371" duration="228000" />
+      <workItem from="1525555222317" duration="2937000" />
+      <workItem from="1525603164817" duration="7493000" />
+      <workItem from="1525617439092" duration="3829000" />
+      <workItem from="1526136566468" duration="186000" />
+      <workItem from="1526144267398" duration="10639000" />
+      <workItem from="1526159152008" duration="151000" />
+      <workItem from="1526159825007" duration="11537000" />
+      <workItem from="1526200272555" duration="5240000" />
+      <workItem from="1526206619353" duration="6611000" />
+      <workItem from="1526213785466" duration="1789000" />
+      <workItem from="1526672437447" duration="6254000" />
+      <workItem from="1526680260672" duration="11000" />
+      <workItem from="1526680423376" duration="5000" />
+      <workItem from="1526681659628" duration="130000" />
+      <workItem from="1526681961881" duration="4000" />
+      <workItem from="1526683817418" duration="7571000" />
+      <workItem from="1526692663513" duration="2421000" />
+      <workItem from="1526729372729" duration="2585000" />
+      <workItem from="1526734793668" duration="8158000" />
+      <workItem from="1526751010657" duration="14986000" />
+      <workItem from="1526813798742" duration="5709000" />
+      <workItem from="1526824225433" duration="3000" />
+      <workItem from="1526824235396" duration="107000" />
+      <workItem from="1526824739354" duration="7973000" />
+      <workItem from="1526849023824" duration="804000" />
+      <workItem from="1526849975847" duration="64000" />
+      <workItem from="1526850097638" duration="5628000" />
+      <workItem from="1526857456588" duration="41000" />
+      <workItem from="1526858488004" duration="4480000" />
+      <workItem from="1526903356140" duration="2830000" />
+      <workItem from="1526907959382" duration="1385000" />
+      <workItem from="1526912897592" duration="6000" />
+      <workItem from="1526918325753" duration="1000" />
+      <workItem from="1526919681116" duration="44000" />
+      <workItem from="1526919746573" duration="212000" />
+      <workItem from="1526932257192" duration="5159000" />
+      <workItem from="1526937468024" duration="4528000" />
+      <workItem from="1526943477629" duration="574000" />
+      <workItem from="1526981712884" duration="42000" />
+      <workItem from="1526981846974" duration="13886000" />
+      <workItem from="1527003347876" duration="27000" />
+      <workItem from="1527004278966" duration="5000" />
+      <workItem from="1527004622807" duration="79000" />
+      <workItem from="1527005452406" duration="209000" />
+      <workItem from="1527005718979" duration="17000" />
+      <workItem from="1527006709714" duration="1299000" />
+      <workItem from="1527008059385" duration="785000" />
+      <workItem from="1527010080534" duration="18000" />
+      <workItem from="1527012823596" duration="373000" />
+      <workItem from="1527013926009" duration="17000" />
+      <workItem from="1527019594514" duration="50000" />
+      <workItem from="1527021443295" duration="3169000" />
+      <workItem from="1527025089508" duration="20000" />
+      <workItem from="1527025380679" duration="24000" />
+      <workItem from="1527025581875" duration="18000" />
+      <workItem from="1527026463488" duration="15000" />
+      <workItem from="1527074097129" duration="611000" />
+      <workItem from="1527097261996" duration="762000" />
+      <workItem from="1527100057234" duration="96000" />
+      <workItem from="1527104859219" duration="14000" />
+      <workItem from="1527104935127" duration="50000" />
+      <workItem from="1527106401477" duration="371000" />
+      <workItem from="1527106830099" duration="9000" />
+      <workItem from="1527106925672" duration="42000" />
+      <workItem from="1527107467812" duration="65000" />
+      <workItem from="1527107810994" duration="502000" />
+      <workItem from="1527109114347" duration="84000" />
+      <workItem from="1527109312877" duration="55000" />
+      <workItem from="1527109491368" duration="1176000" />
+      <workItem from="1527116809788" duration="4715000" />
+      <workItem from="1527184795577" duration="391000" />
+      <workItem from="1527185786253" duration="11367000" />
+      <workItem from="1527210713559" duration="871000" />
+      <workItem from="1527211617571" duration="547000" />
+      <workItem from="1527212299812" duration="1888000" />
+      <workItem from="1527260794189" duration="386000" />
+      <workItem from="1527266358941" duration="62000" />
+      <workItem from="1527268161720" duration="300000" />
+      <workItem from="1527268686854" duration="894000" />
+      <workItem from="1527269876365" duration="1882000" />
+      <workItem from="1527276754214" duration="311000" />
+      <workItem from="1527277156351" duration="1029000" />
+      <workItem from="1527279769961" duration="624000" />
+      <workItem from="1527280459636" duration="28000" />
+      <workItem from="1527280654053" duration="790000" />
+      <workItem from="1527285087185" duration="85000" />
+      <workItem from="1527285373475" duration="5532000" />
+      <workItem from="1527330939204" duration="69000" />
+      <workItem from="1527333972781" duration="618000" />
+      <workItem from="1527338795102" duration="4000" />
+      <workItem from="1527363314493" duration="426000" />
+      <workItem from="1527363938577" duration="135000" />
+      <workItem from="1527364257683" duration="3142000" />
+      <workItem from="1527367652868" duration="8000" />
+      <workItem from="1527367836689" duration="124000" />
+      <workItem from="1527368201235" duration="322000" />
+      <workItem from="1527368845443" duration="108000" />
+      <workItem from="1527371391785" duration="17000" />
+      <workItem from="1527373961114" duration="172000" />
+      <workItem from="1527375388972" duration="106000" />
+      <workItem from="1527376666310" duration="45000" />
+      <workItem from="1527376925275" duration="634000" />
+      <workItem from="1527379170670" duration="55000" />
+      <workItem from="1527380252487" duration="2000" />
+      <workItem from="1527386402233" duration="19000" />
+      <workItem from="1527390335014" duration="36000" />
+      <workItem from="1527853082323" duration="374000" />
+      <workItem from="1527938590439" duration="258000" />
+      <workItem from="1527938922608" duration="456000" />
+      <workItem from="1527959538356" duration="281000" />
+      <workItem from="1527959849182" duration="5526000" />
+      <workItem from="1527967154396" duration="203000" />
+      <workItem from="1527967541494" duration="4283000" />
+      <workItem from="1527972999502" duration="651000" />
+      <workItem from="1527975418483" duration="4050000" />
+      <workItem from="1527986320362" duration="24000" />
+      <workItem from="1527986596155" duration="865000" />
+      <workItem from="1528026151435" duration="16000" />
+      <workItem from="1528032940336" duration="198000" />
+      <workItem from="1528033196871" duration="4000" />
+      <workItem from="1528491111996" duration="48000" />
+      <workItem from="1528492211001" duration="674000" />
+      <workItem from="1529089752473" duration="971000" />
+      <workItem from="1529097850648" duration="13000" />
+      <workItem from="1529152638092" duration="145000" />
+      <workItem from="1529152809512" duration="607000" />
+      <workItem from="1529158540574" duration="153000" />
+      <workItem from="1529173681739" duration="4680000" />
+      <workItem from="1529182379122" duration="24000" />
+      <workItem from="1529188059872" duration="839000" />
+      <workItem from="1529188917253" duration="1254000" />
+      <workItem from="1529194164812" duration="198000" />
+      <workItem from="1529194511401" duration="528000" />
+      <workItem from="1529195123375" duration="16000" />
+      <workItem from="1529196139696" duration="46000" />
+      <workItem from="1529198132154" duration="683000" />
+      <workItem from="1529198952371" duration="710000" />
+      <workItem from="1529231031938" duration="12000" />
+      <workItem from="1529231475715" duration="325000" />
+      <workItem from="1529234542101" duration="1217000" />
+      <workItem from="1529235872437" duration="283000" />
+      <workItem from="1529236171569" duration="12000" />
+      <workItem from="1529236243028" duration="711000" />
+      <workItem from="1529237094951" duration="400000" />
+      <workItem from="1529681640317" duration="2321000" />
+      <workItem from="1529687511429" duration="2244000" />
+      <workItem from="1529689787986" duration="5391000" />
+      <workItem from="1529749309399" duration="2203000" />
+      <workItem from="1529766827763" duration="653000" />
+      <workItem from="1529769003401" duration="3957000" />
+      <workItem from="1529786146719" duration="54000" />
+      <workItem from="1529788509730" duration="1824000" />
+      <workItem from="1529790601840" duration="11507000" />
+      <workItem from="1529804967854" duration="1656000" />
+      <workItem from="1529836652731" duration="10779000" />
+      <workItem from="1529851736575" duration="693000" />
+      <workItem from="1529854361504" duration="56000" />
+      <workItem from="1530372883494" duration="690000" />
+      <workItem from="1530378721495" duration="176000" />
+      <workItem from="1530390750929" duration="42000" />
+      <workItem from="1530486330375" duration="21000" />
+      <workItem from="1530555598213" duration="643000" />
+      <workItem from="1530556523578" duration="132000" />
+      <workItem from="1530556776053" duration="317000" />
+      <workItem from="1530557270551" duration="785000" />
+      <workItem from="1530558319689" duration="347000" />
+      <workItem from="1530558728178" duration="1125000" />
+      <workItem from="1530560027588" duration="2025000" />
+      <workItem from="1530562091933" duration="8000" />
+      <workItem from="1530562334525" duration="57000" />
+      <workItem from="1530562839851" duration="4824000" />
+      <workItem from="1530656804671" duration="17000" />
+      <workItem from="1530657959537" duration="12000" />
+      <workItem from="1530659229682" duration="8000" />
+      <workItem from="1530747158670" duration="16000" />
+      <workItem from="1530753319079" duration="34000" />
+      <workItem from="1530754783202" duration="33000" />
+      <workItem from="1530785429618" duration="24000" />
+      <workItem from="1530788817214" duration="29000" />
+      <workItem from="1530789609204" duration="39000" />
+      <workItem from="1530789877504" duration="15000" />
+      <workItem from="1530820422544" duration="8084000" />
+      <workItem from="1531071117054" duration="13000" />
+      <workItem from="1531071182750" duration="16000" />
+      <workItem from="1531071321370" duration="704000" />
+      <workItem from="1531088225480" duration="1111000" />
+      <workItem from="1531137229780" duration="3321000" />
+      <workItem from="1531857941577" duration="44000" />
+      <workItem from="1531858000438" duration="2191000" />
+      <workItem from="1532093173676" duration="119000" />
+      <workItem from="1532093335933" duration="3000" />
+      <workItem from="1532093905326" duration="648000" />
+      <workItem from="1532098280877" duration="1080000" />
+      <workItem from="1532118057642" duration="1219000" />
+      <workItem from="1532122017179" duration="664000" />
+      <workItem from="1532137535755" duration="48000" />
+      <workItem from="1532137663209" duration="26000" />
+      <workItem from="1532137776248" duration="1428000" />
+      <workItem from="1532174702329" duration="3846000" />
+      <workItem from="1532185003292" duration="740000" />
+      <workItem from="1532187766094" duration="225000" />
+      <workItem from="1532188014721" duration="12000" />
+      <workItem from="1532188337928" duration="49000" />
+      <workItem from="1532188490511" duration="377000" />
+      <workItem from="1532191563279" duration="68000" />
+      <workItem from="1532207387083" duration="14791000" />
+      <workItem from="1532222220490" duration="9000" />
+      <workItem from="1532222442310" duration="45000" />
+      <workItem from="1532222798403" duration="99000" />
+      <workItem from="1532268896718" duration="8000" />
+      <workItem from="1532271439419" duration="2079000" />
+      <workItem from="1533582648780" duration="3288000" />
+      <workItem from="1533662858497" duration="16000" />
+      <workItem from="1533663015569" duration="203000" />
+      <workItem from="1533663325066" duration="31000" />
+      <workItem from="1533663513295" duration="422000" />
+      <workItem from="1533664515725" duration="555000" />
+      <workItem from="1533665271850" duration="30000" />
+      <workItem from="1533665491841" duration="207000" />
+      <workItem from="1533680589579" duration="26000" />
+      <workItem from="1533700913520" duration="153000" />
+    </task>
+    <task id="LOCAL-00032" summary="Edit Wrapper">
+      <created>1523019956873</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1523019956874</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Added MongoDB Module">
+      <created>1523030325152</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1523030325152</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Added MongoDB Module">
+      <created>1523031561291</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1523031561291</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Added MongoDB Module">
+      <created>1523031674734</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1523031674735</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Added Logger Module">
+      <created>1523032884484</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1523032884484</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Added Logger Module">
+      <created>1523033767393</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1523033767393</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Added Sign Module">
+      <created>1523046287386</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1523046287386</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Added Sign Module">
+      <created>1523047773803</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1523047773803</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Added Wrapper Bungeecord start">
+      <created>1523050804343</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1523050804343</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Added Wrapper Bungeecord start">
+      <created>1523051422302</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1523051422302</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Added Wrapper Bungeecord start">
+      <created>1523051544298</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1523051544298</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Added Wrapper Bungeecord start">
+      <created>1523053054499</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1523053054499</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Added Wrapper Bungeecord start">
+      <created>1525119614966</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1525119614966</updated>
+    </task>
+    <task id="LOCAL-00045" summary="Added CloudAPI">
+      <created>1525523529586</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1525523529586</updated>
+    </task>
+    <task id="LOCAL-00046" summary="Added CloudAPI">
+      <created>1525524436149</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1525524436149</updated>
+    </task>
+    <task id="LOCAL-00047" summary="Added CloudAPI">
+      <created>1525525018871</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1525525018871</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Added CloudAPI">
+      <created>1525525234011</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1525525234011</updated>
+    </task>
+    <task id="LOCAL-00049" summary="Added CloudAPI">
+      <created>1525525300071</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1525525300071</updated>
+    </task>
+    <task id="LOCAL-00050" summary="Added CloudAPI">
+      <created>1525525381083</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1525525381085</updated>
+    </task>
+    <task id="LOCAL-00051" summary="Added CloudAPI">
+      <created>1525526182410</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1525526182410</updated>
+    </task>
+    <task id="LOCAL-00052" summary="Added CloudAPI">
+      <created>1525530544742</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1525530544742</updated>
+    </task>
+    <task id="LOCAL-00053" summary="Added CloudAPI">
+      <created>1525534250453</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1525534250454</updated>
+    </task>
+    <task id="LOCAL-00054" summary="Added CloudAPI">
+      <created>1525534603751</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1525534603751</updated>
+    </task>
+    <task id="LOCAL-00055" summary="Added CloudAPI">
+      <created>1525541928743</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1525541928743</updated>
+    </task>
+    <task id="LOCAL-00056" summary="Added Network Module">
+      <created>1525603200333</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1525603200338</updated>
+    </task>
+    <task id="LOCAL-00057" summary="Added Network Module">
+      <created>1525606450493</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1525606450493</updated>
+    </task>
+    <task id="LOCAL-00058" summary="Added Network Module">
+      <created>1525606492717</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1525606492717</updated>
+    </task>
+    <task id="LOCAL-00059" summary="Added Network Module">
+      <created>1525609953431</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1525609953431</updated>
+    </task>
+    <task id="LOCAL-00060" summary="Added Network Module">
+      <created>1525610015215</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1525610015215</updated>
+    </task>
+    <task id="LOCAL-00061" summary="Added Network Module">
+      <created>1525610091125</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1525610091125</updated>
+    </task>
+    <task id="LOCAL-00062" summary="Added Network Module">
+      <created>1525611475465</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1525611475465</updated>
+    </task>
+    <task id="LOCAL-00063" summary="Added Network Module">
+      <created>1525611530799</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1525611530799</updated>
+    </task>
+    <task id="LOCAL-00064" summary="Added Network Module">
+      <created>1525618624696</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1525618624698</updated>
+    </task>
+    <task id="LOCAL-00065" summary="Added Network Module">
+      <created>1525619301452</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1525619301452</updated>
+    </task>
+    <task id="LOCAL-00066" summary="Added Network Module">
+      <created>1525619381070</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1525619381070</updated>
+    </task>
+    <task id="LOCAL-00067" summary="Added Network Module">
+      <created>1525619656009</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1525619656009</updated>
+    </task>
+    <task id="LOCAL-00068" summary="Added Network Module">
+      <created>1526145740356</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1526145740357</updated>
+    </task>
+    <task id="LOCAL-00069" summary="Added Network Module">
+      <created>1526145977070</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1526145977070</updated>
+    </task>
+    <task id="LOCAL-00070" summary="Added Network Module">
+      <created>1526146108288</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1526146108288</updated>
+    </task>
+    <task id="LOCAL-00071" summary="Added Network Module">
+      <created>1526146727461</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1526146727461</updated>
+    </task>
+    <task id="LOCAL-00072" summary="Added Network Module">
+      <created>1526206643836</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1526206643836</updated>
+    </task>
+    <task id="LOCAL-00073" summary="Added Network Module">
+      <created>1526208052237</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1526208052237</updated>
+    </task>
+    <task id="LOCAL-00074" summary="Added Stuff">
+      <created>1526849208484</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1526849208485</updated>
+    </task>
+    <task id="LOCAL-00075" summary="Added CloudAPI">
+      <created>1526943646757</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1526943646757</updated>
+    </task>
+    <task id="LOCAL-00076" summary="Added Friendsystem">
+      <created>1527100103495</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1527100103496</updated>
+    </task>
+    <task id="LOCAL-00077" summary="Added Cloud command system">
+      <created>1527266393173</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1527266393174</updated>
+    </task>
+    <task id="LOCAL-00078" summary="Added Sign System">
+      <created>1527967352253</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1527967352253</updated>
+    </task>
+    <task id="LOCAL-00079" summary="Added MAP System">
+      <created>1532093212192</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1532093212192</updated>
+    </task>
+    <task id="LOCAL-00080" summary="Added MAP System">
+      <created>1532093922669</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1532093922669</updated>
+    </task>
+    <option name="localTasksCounter" value="81" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="All_in_SmashMaster - 2018.04.07 at 01h 51m 52s.xml">
+      <configuration name="All in SmashMaster" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BungeecordProxyTest - 2018.04.07 at 01h 51m 12s.xml">
+      <configuration name="BungeecordProxyTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BungeecordProxyTest_test_ess - 2018.04.07 at 01h 49m 01s.xml">
+      <configuration name="BungeecordProxyTest.test_ess" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BungeecordProxyTest_test_ess - 2018.04.07 at 01h 49m 29s.xml">
+      <configuration name="BungeecordProxyTest.test_ess" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MasterTest - 2018.04.07 at 01h 52m 59s.xml">
+      <configuration name="MasterTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="net_smashmc_cloud_master_in_SmashMaster - 2018.04.07 at 01h 54m 51s.xml">
+      <configuration name="net.smashmc.cloud.master in SmashMaster" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="603440000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32928178" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32792208" />
+      <window_info anchor="right" id="Maven Projects" order="3" weight="0.31130064" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3273743" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32826087" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.56663114" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32995737" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32513967" />
+      <window_info anchor="bottom" id="Thumbnails" order="7" weight="0.32928178" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32849163" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="4" side_tool="true" weight="0.32995737" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection Results" order="8" weight="0.32928178" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="bottom" id="Thumbnails" order="7" weight="0.32928178" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info id="Image Layers" order="3" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3273743" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32826087" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Inspection Results" order="12" weight="0.32928178" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32792208" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32513967" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3880597" />
+      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.3336887" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Database" order="6" weight="0.32995737" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32928178" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32995737" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32928178" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Edit MongoDB Driver to Async MongoDB Driver" />
+    <MESSAGE value="Added own Cache" />
+    <MESSAGE value="Edit Cache" />
+    <MESSAGE value="Edit Singleton" />
+    <MESSAGE value="Added Google Guava" />
+    <MESSAGE value="Edit CacheBuilder" />
+    <MESSAGE value="New Master start System" />
+    <MESSAGE value="Added Logging" />
+    <MESSAGE value="No Number" />
+    <MESSAGE value="Added multi Wrapper Channel" />
+    <MESSAGE value="Edit multi Wrapper Channel" />
+    <MESSAGE value="Edit one :D" />
+    <MESSAGE value="Edit Syntax" />
+    <MESSAGE value="Edit Wrapper" />
+    <MESSAGE value="Added MongoDB Module" />
+    <MESSAGE value="Added Logger Module" />
+    <MESSAGE value="Added Sign Module" />
+    <MESSAGE value="Added Wrapper Bungeecord start" />
+    <MESSAGE value="Added Network Module" />
+    <MESSAGE value="Added Stuff" />
+    <MESSAGE value="Added CloudAPI" />
+    <MESSAGE value="Added Friendsystem" />
+    <MESSAGE value="Added Cloud command system" />
+    <MESSAGE value="Added Sign System" />
+    <MESSAGE value="Added MAP System" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added MAP System" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SmashMaster/src/main/java/net/smashmc/cloud/master/networ/old/handler/PacketDecoder.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SmashMC - Lobby/src/main/java/net/smashmc/lobby/main/LobbyPlugin.java</url>
+          <line>76</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SmashMC - Modules/Modules - Rank/src/main/java/net/smashmc/modules/PlayerHandler.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SmashPVP/src/main/java/net/smashmc/pvp/user/User.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SmashPVP/src/main/java/net/smashmc/pvp/items/VipItemHandler.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SmashPVP/src/main/java/net/smashmc/pvp/user/User.java</url>
+          <line>93</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SmashWrapper/src/main/java/net/smashmc/wrapper/network/BootstrapClient.java</url>
+          <line>81</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SmashMaster/src/main/java/net/smashmc/cloud/master/networ/old/PacketSerializer.java</url>
+          <line>43</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SmashWrapper/src/main/java/net/smashmc/wrapper/packet/PacketInStopServer.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/BungeeSystem/src/main/java/net/smashmc/cloud/bungeesystem/listener/ListenerLogin.java</url>
+          <line>90</line>
+          <properties class="net.smashmc.cloud.bungeesystem.listener.ListenerLogin" method="onDisconnect">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="18" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/BungeeSystem/src/main/java/net/smashmc/cloud/bungeesystem/listener/ListenerPing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="27" column="74" selection-start-line="27" selection-start-column="74" selection-end-line="27" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BungeeSystem/src/main/java/net/smashmc/cloud/bungeesystem/listener/ListenerChat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="49" column="20" lean-forward="true" selection-start-line="49" selection-start-column="20" selection-end-line="49" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BungeeSystem/src/main/java/net/smashmc/cloud/bungeesystem/handler/report/ReportHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="32" column="96" selection-start-line="32" selection-start-column="96" selection-end-line="32" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/Plugins-SourceCodes/Bungeesystem/src/extras/BroadcastCMD.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/net/md-5/bungeecord-api/1.8-SNAPSHOT/bungeecord-api-1.8-20160221.214655-126.jar!/net/md_5/bungee/api/Title.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/Plugins-SourceCodes/Bungeesystem/src/extras/RCommand.java" />
+    <entry file="file://G:/Plugins-SourceCodes/Bungeesystem/src/extras/RGLCommand.java" />
+    <entry file="file://$PROJECT_DIR$/SmashMC - Modules/Modules - MongoDB/src/main/java/net/smashmc/modules/mongodb/storage/connection/DatabaseConnection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1765">
+          <caret line="123" column="5" selection-start-line="123" selection-start-column="5" selection-end-line="123" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BungeeSystem/src/main/java/net/smashmc/cloud/bungeesystem/database/Settings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/Plugins-SourceCodes/Bungeesystem/src/main/Methoden.java" />
+    <entry file="file://$PROJECT_DIR$/BungeeSystem/src/main/java/net/smashmc/cloud/bungeesystem/commands/CommandWhereami.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="98" selection-start-line="24" selection-start-column="98" selection-end-line="24" selection-end-column="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BungeeSystem/src/main/java/net/smashmc/cloud/bungeesystem/handler/PlayerInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BungeeSystem/src/main/java/net/smashmc/cloud/bungeesystem/commands/CommandSetRank.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="32" column="19" lean-forward="true" selection-start-line="32" selection-start-column="19" selection-end-line="34" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BungeeSystem/src/main/java/net/smashmc/cloud/bungeesystem/handler/lobby/LobbyDistributor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="35" column="56" lean-forward="true" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BungeeSystem/src/main/java/net/smashmc/cloud/bungeesystem/netty/packet/PacketAddReport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="56" column="67" lean-forward="true" selection-start-line="56" selection-start-column="67" selection-end-line="56" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BungeeSystem/src/main/java/net/smashmc/cloud/bungeesystem/netty/packet/PacketOutRegisterBungee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BungeeSystem/src/main/java/net/smashmc/cloud/bungeesystem/netty/packet/PacketInStopServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BungeeSystem/src/main/java/net/smashmc/cloud/bungeesystem/netty/packet/PacketInAddServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="711">
+          <caret line="58" column="5" lean-forward="true" selection-end-line="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BungeeSystem/src/main/java/net/smashmc/cloud/bungeesystem/commands/CommandCloud.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1077">
+          <caret line="87" column="122" lean-forward="true" selection-start-line="87" selection-start-column="19" selection-end-line="87" selection-end-column="122" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BungeeSystem/src/main/java/net/smashmc/cloud/bungeesystem/database/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="34" column="6" selection-start-line="34" selection-start-column="6" selection-end-line="34" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BungeeSystem/src/main/java/net/smashmc/cloud/bungeesystem/commands/CommandCoins.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="24" lean-forward="true" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BungeeSystem/src/main/java/net/smashmc/cloud/bungeesystem/listener/ListenerLogin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="36" column="122" selection-start-line="36" selection-start-column="122" selection-end-line="36" selection-end-column="122" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BungeeSystem/src/main/java/net/smashmc/cloud/bungeesystem/handler/Prefixes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="142" selection-start-line="4" selection-start-column="142" selection-end-line="4" selection-end-column="142" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BungeeSystem/src/main/java/net/smashmc/cloud/bungeesystem/commands/CommandFriend.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="45" column="98" selection-start-line="45" selection-start-column="98" selection-end-line="45" selection-end-column="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BungeeSystem/src/main/java/net/smashmc/cloud/bungeesystem/commands/CommandBroadcast.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BungeeSystem/src/main/java/net/smashmc/cloud/bungeesystem/commands/CommandClan.java" />
+    <entry file="file://$PROJECT_DIR$/BungeeSystem/src/main/java/net/smashmc/cloud/bungeesystem/database/Clan.java" />
+    <entry file="file://$PROJECT_DIR$/BungeeSystem/src/main/java/net/smashmc/cloud/bungeesystem/database/Friend.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="58" column="8" selection-start-line="58" selection-start-column="8" selection-end-line="60" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BungeeSystem/src/main/java/net/smashmc/cloud/bungeesystem/BungeeSystem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="58" column="53" selection-start-line="58" selection-start-column="53" selection-end-line="58" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DRa6356.33916/MinigameAPI-master-93038e98853520d0de44e766d89c255bf75a189c/src/main/java/tv/rewinside/MinigameAPI/MinigameAPI.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DRa6356.32854/MinigameAPI-master-93038e98853520d0de44e766d89c255bf75a189c/src/main/java/tv/rewinside/MinigameAPI/commands/BuildCommand.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DRa6356.39989/RewisServer-master-822fdf5ff3c9050ff1601b0c8c1e7fa65cdaf9e1/src/main/java/de/howaner/RecordingListener.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DRa6356.43139/LobbyNickname-master-6d4e455266cfe2a2dc0be69e20e0a94ac2f7d5d1/src/main/java/tv/rewinside/LobbyNickname/LobbyNicknamePlugin.java" />
+    <entry file="file://D:/Leaks/Server/BergwerksLABS/bergwerkLabs-master/bergwerklabs-bergwerklabs_bungee_v2-32087d053f15/src/main/java/de/bergwerklabs/labsbungeev2/lobbymanagment/LobbyManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2091" />
+      </provider>
+    </entry>
+    <entry file="file://D:/Leaks/Server/BergwerksLABS/bergwerkLabs-master/bergwerklabs-bergwerklabs_bungee_v2-32087d053f15/src/main/java/de/bergwerklabs/labsbungeev2/LABSBungee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="541">
+          <caret line="74" column="41" selection-start-line="74" selection-start-column="41" selection-end-line="74" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Leaks/Server/PlayInfinity/BungeeInfo/src/de/pi/bungeeinfo/premiumkick/PremiumKick.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-190" />
+      </provider>
+    </entry>
+    <entry file="file://D:/Leaks/Server/PlayInfinity/BungeeInfo/src/de/pi/bungeeinfo/Packets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1054" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CloudAPI[Neu]/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CloudAPI[Neu]/src/main/java/net/smashmc/eu/update/ServerUpdate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CloudAPI[Neu]/src/main/java/net/smashmc/eu/packet/PacketOutSetServerIngame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SmashMaster/src/main/java/net/smashmc/cloud/master/utils/types/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CloudAPI[Neu]/src/main/java/net/smashmc/eu/packet/PacketOutServerInformation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="14" column="102" selection-start-line="14" selection-start-column="102" selection-end-line="14" selection-end-column="102" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CloudAPI[Neu]/src/main/java/net/smashmc/eu/update/listener/UpdateListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="23" column="209" selection-start-line="23" selection-start-column="209" selection-end-line="23" selection-end-column="209" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CloudAPI[Neu]/src/main/java/net/smashmc/eu/utils/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" column="111" selection-start-line="17" selection-start-column="111" selection-end-line="17" selection-end-column="111" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CloudAPI[Neu]/src/main/java/net/smashmc/eu/CloudAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="86" column="59" selection-start-line="86" selection-start-column="59" selection-end-line="86" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CloudAPI[Neu]/src/main/java/net/smashmc/eu/packet/PacketInServerInformation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="43" column="44" selection-start-line="43" selection-start-column="44" selection-end-line="43" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CloudAPI[Neu]/src/main/java/net/smashmc/eu/packet/PacketInAddServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="47" column="90" selection-start-line="47" selection-start-column="90" selection-end-line="47" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SmashMaster/src/main/java/net/smashmc/cloud/master/Master.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-136">
+          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SmashMaster/src/main/java/net/smashmc/cloud/master/packets/PacketInServerInformation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SmashMaster/src/main/java/net/smashmc/cloud/master/packets/PacketOutServerInformation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="30" column="40" selection-start-line="30" selection-start-column="40" selection-end-line="30" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SmashMaster/src/main/java/net/smashmc/cloud/master/packets/PacketOutUpdateSign.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>SmashWrapper</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.34367815" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>SmashWrapper</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.34367815" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: io.netty:netty-all:4.1.17.Final</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.34367815" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
